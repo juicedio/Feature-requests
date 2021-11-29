@@ -1,2 +1,2 @@
-# Bug-reports
-Bug reports for https://app.juiced.io
+# Feature-requests
+Feature requests for https://app.juiced.io
